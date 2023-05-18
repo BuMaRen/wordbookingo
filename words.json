@@ -1,0 +1,12 @@
+{
+    "Words":[
+        {
+            "Name":"test",
+            "Desc":"测试",
+            "Correct":0,
+            "Fault":0,
+            "CorrectRate":0.0,
+            "TouchTime":0
+        }
+    ]
+}
